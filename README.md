@@ -55,6 +55,36 @@ This repository demonstrates a complete machine learning workflow — from **EDA
    git clone [https://github.com/akkikoomar27](https://github.com/akkikoomar27)/eda-preprocessing-classification.git
    cd eda-preprocessing-classification
 
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+3. Launch the notebook:
+
+   jupyter notebook eda-preprocessing-classification.ipynb
+
+## 📈 Quick Start
+1. Heatmaps for correlation
+2. Personality class distribution
+3. Feature importance (from models)
+4. Confusion matrix and classification reports
+
+## 🛠️ Future Work
+🔍 Hyperparameter tuning
+📊 Model interpretability with SHAP or LIME
+🌐 Web demo using Streamlit or Gradio
+🧪 Cross-validation & ensemble techniques
+
+## 🤝 Contributions
+Feel free to fork and submit pull requests to improve models, visualizations, or add more experiments! 💡
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 🙋‍♂️ Acknowledgments
+Thanks to Kaggle for the dataset and monthly playground competitions.
+Original dataset: Extrovert vs. Introvert Behavior Dataset (via Kaggle)
+
 
   
 
